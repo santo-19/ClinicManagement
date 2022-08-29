@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\LoginTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\LoginTest\obj\Debug\net6.0\UnitTest.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\LoginTest\obj\Debug\net6.0\UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\LoginTest\obj\Debug\net6.0\UnitTest.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\LoginTest\obj\Debug\net6.0\UnitTest.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\LoginTest\obj\Debug\net6.0\UnitTest.csproj.CoreCompileInputs.cache

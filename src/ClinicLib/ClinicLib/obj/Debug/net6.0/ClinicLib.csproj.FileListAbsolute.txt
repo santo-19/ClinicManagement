@@ -1,0 +1,38 @@
+C:\Users\Admin\Desktop\Visual Studio Programs\ClinicLib\ClinicLib\bin\Debug\net6.0\ClinicLib.deps.json
+C:\Users\Admin\Desktop\Visual Studio Programs\ClinicLib\ClinicLib\bin\Debug\net6.0\ClinicLib.dll
+C:\Users\Admin\Desktop\Visual Studio Programs\ClinicLib\ClinicLib\bin\Debug\net6.0\ClinicLib.pdb
+C:\Users\Admin\Desktop\Visual Studio Programs\ClinicLib\ClinicLib\obj\Debug\net6.0\ClinicLib.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio Programs\ClinicLib\ClinicLib\obj\Debug\net6.0\ClinicLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Visual Studio Programs\ClinicLib\ClinicLib\obj\Debug\net6.0\ClinicLib.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Programs\ClinicLib\ClinicLib\obj\Debug\net6.0\ClinicLib.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Visual Studio Programs\ClinicLib\ClinicLib\obj\Debug\net6.0\ClinicLib.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Programs\ClinicLib\ClinicLib\obj\Debug\net6.0\ClinicLib.dll
+C:\Users\Admin\Desktop\Visual Studio Programs\ClinicLib\ClinicLib\obj\Debug\net6.0\refint\ClinicLib.dll
+C:\Users\Admin\Desktop\Visual Studio Programs\ClinicLib\ClinicLib\obj\Debug\net6.0\ClinicLib.pdb
+C:\Users\Admin\Desktop\Visual Studio Programs\ClinicLib\ClinicLib\obj\Debug\net6.0\ref\ClinicLib.dll
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\ClinicLib\obj\Debug\net6.0\ClinicLib.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\ClinicLib\obj\Debug\net6.0\ClinicLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\ClinicLib\obj\Debug\net6.0\ClinicLib.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\ClinicLib\obj\Debug\net6.0\ClinicLib.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\ClinicLib\obj\Debug\net6.0\ClinicLib.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\ClinicLib\obj\Debug\net6.0\ClinicLib.dll
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\ClinicLib\obj\Debug\net6.0\refint\ClinicLib.dll
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\ClinicLib\obj\Debug\net6.0\ClinicLib.pdb
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\ClinicLib\ClinicLib\obj\Debug\net6.0\ClinicLib.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\ClinicLib\ClinicLib\obj\Debug\net6.0\ClinicLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\ClinicLib\ClinicLib\obj\Debug\net6.0\ClinicLib.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\ClinicLib\ClinicLib\obj\Debug\net6.0\ClinicLib.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\ClinicLib\ClinicLib\obj\Debug\net6.0\ClinicLib.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\ClinicLib\ClinicLib\obj\Debug\net6.0\ClinicLib.dll
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\ClinicLib\ClinicLib\obj\Debug\net6.0\refint\ClinicLib.dll
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\ClinicLib\ClinicLib\obj\Debug\net6.0\ClinicLib.pdb
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\ClinicLib\ClinicLib\bin\Debug\net6.0\ClinicLib.deps.json
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\ClinicLib\ClinicLib\bin\Debug\net6.0\ClinicLib.dll
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\ClinicLib\ClinicLib\bin\Debug\net6.0\ClinicLib.pdb
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\ClinicLib\ClinicLib\obj\Debug\net6.0\ref\ClinicLib.dll
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\ClinicLib\ClinicLib\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\ClinicLib\ClinicLib\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\ClinicLib\ClinicLib\bin\Debug\net6.0\nunit.engine.dll
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\ClinicLib\ClinicLib\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\ClinicLib\ClinicLib\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Users\Admin\Desktop\Visual Studio Programs\Clinic Management\src\ClinicLib\ClinicLib\bin\Debug\net6.0\testcentric.engine.metadata.dll

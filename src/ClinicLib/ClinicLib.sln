@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClinicLib", "ClinicLib\ClinicLib.csproj", "{8B799688-845B-416A-8DFA-BD83CA1056D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{CC9FF207-F689-4504-BE43-12417FA431B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B799688-845B-416A-8DFA-BD83CA1056D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B799688-845B-416A-8DFA-BD83CA1056D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B799688-845B-416A-8DFA-BD83CA1056D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B799688-845B-416A-8DFA-BD83CA1056D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC9FF207-F689-4504-BE43-12417FA431B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9FF207-F689-4504-BE43-12417FA431B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC9FF207-F689-4504-BE43-12417FA431B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC9FF207-F689-4504-BE43-12417FA431B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {736BE312-3C8F-46C2-8697-302BCD37C645}
+	EndGlobalSection
+EndGlobal
